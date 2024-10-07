@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="evaluaci-n-final-de-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/evaluaci_n_final_de_java_jar</output-path>
+    <root id="archive" name="evaluaci-n-final-de-java.jar">
+      <element id="module-output" name="evaluaci-n-final-de-java" />
+    </root>
+  </artifact>
+</component>
